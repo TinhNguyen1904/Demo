@@ -11,3 +11,13 @@ https://bigdataprogrammers.com/read-nested-json-in-spark-dataframe/
 https://www.elastic.co/downloads/past-releases/logstash-7-16-3
 
 https://www.elastic.co/downloads/logstash
+
+https://www.youtube.com/watch?v=Sp7eV0LQzts
+
+https://www.youtube.com/watch?v=IPNnUqUvaZQ
+
+https://thomasdecaux.medium.com/export-data-from-elasticsearch-to-mysql-with-apache-spark-37e1e3d3ac3a
+
+https://towardsdatascience.com/how-to-synchronize-elasticsearch-with-mysql-ed32fc57b339
+
+https://www.elastic.co/guide/en/cloud/current/ec-getting-started-search-use-cases-db-logstash.html
