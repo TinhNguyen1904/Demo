@@ -21,3 +21,17 @@ https://thomasdecaux.medium.com/export-data-from-elasticsearch-to-mysql-with-apa
 https://towardsdatascience.com/how-to-synchronize-elasticsearch-with-mysql-ed32fc57b339
 
 https://www.elastic.co/guide/en/cloud/current/ec-getting-started-search-use-cases-db-logstash.html
+
+-----------------------------------------------------------------------------------------------
+
+https://github.com/epogrebnyak/facebook-json-to-csv
+
+https://github.com/Lackoftactics/facebook_data_analyzer
+
+https://github.com/spencerhance/fb-data-parser
+
+https://stackoverflow.com/questions/55743070/pyspark-dataframe-select-row-by-id-in-another-dataframes-column
+
+https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf
+
+https://medium.com/analytics-vidhya/read-your-network-of-friends-in-facebook-by-scraping-with-python-a012adabb713
