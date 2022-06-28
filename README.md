@@ -35,3 +35,7 @@ https://stackoverflow.com/questions/55743070/pyspark-dataframe-select-row-by-id-
 https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf
 
 https://medium.com/analytics-vidhya/read-your-network-of-friends-in-facebook-by-scraping-with-python-a012adabb713
+
+https://gwu-libraries.github.io/sfm-ui/posts/2017-09-08-sna
+
+https://nocodewebscraping.com/how-to-extract-data-from-facebook-page-competitor-analysis/
