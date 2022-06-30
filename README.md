@@ -39,3 +39,13 @@ https://medium.com/analytics-vidhya/read-your-network-of-friends-in-facebook-by-
 https://gwu-libraries.github.io/sfm-ui/posts/2017-09-08-sna
 
 https://nocodewebscraping.com/how-to-extract-data-from-facebook-page-competitor-analysis/
+
+============================================================================================================================
+
+https://www.geeksforgeeks.org/python-replace-elements-in-second-list-with-index-of-same-element-in-first-list/?ref=rp
+
+https://stackoverflow.com/questions/58570251/how-to-set-index-while-have-only-one-column-in-big-data-using-pandas
+
+https://es.acervolima.com/pyspark-dataframe-asignar-strings-a-numerico/
+
+https://stackoverflow.com/questions/66868392/creating-pyspark-dataframe-from-list-of-dictionaries
