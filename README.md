@@ -80,3 +80,10 @@ https://www.geeksforgeeks.org/feeding-json-data-to-kafka-topic-using-rest-proxy/
 
 https://kafka-python.readthedocs.io/en/master/usage.html
 
+====================================================+++++++++++++++++++++++++++++++++++++==========================================
+
+https://analyticsindiamag.com/document-classification-using-apache-spark-scala/
+
+https://github.com/shivam5992/classification_pipeline
+
+https://github.com/a0x8o/kafka/blob/master/core/src/main/scala/kafka/admin/TopicCommand.scala
