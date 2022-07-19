@@ -87,3 +87,27 @@ https://analyticsindiamag.com/document-classification-using-apache-spark-scala/
 https://github.com/shivam5992/classification_pipeline
 
 https://github.com/a0x8o/kafka/blob/master/core/src/main/scala/kafka/admin/TopicCommand.scala
+
+========================================================////////////////////////////////////=============================================
+
+scala filter multiple conditions
+
+https://www.javatpoint.com/scala-conditional-expressions
+
+https://www.projectpro.io/recipes/explain-where-filter-dataframe-spark
+
+https://sparkbyexamples.com/spark/spark-dataframe-where-filter/
+
+https://stackoverflow.com/questions/35881152/multiple-conditions-for-filter-in-spark-data-frames
+
+https://stackoverflow.com/questions/8645773/sql-query-with-multiple-where-statements
+
+https://www.techonthenet.com/sql/and_or.php
+
+https://www.tutorialspoint.com/mysql/mysql-where-clause.htm
+
+https://www.baeldung.com/scala/play-database-access
+
+https://www.youtube.com/watch?v=KBVcmofuOUs
+
+https://www.youtube.com/watch?v=BiaOAz8zWYw
