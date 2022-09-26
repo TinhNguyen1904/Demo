@@ -111,3 +111,11 @@ https://www.baeldung.com/scala/play-database-access
 https://www.youtube.com/watch?v=KBVcmofuOUs
 
 https://www.youtube.com/watch?v=BiaOAz8zWYw
+
+============================================================================================================================================
+
+https://stackoverflow.com/questions/64618491/merge-combine-2-column-in-spark-dataframe
+
+https://stackovelow.com/questions/60475839/add-new-column-in-pyspark-data-frame-comparing-two-column-present-in-same-data-f
+
+https://stackoverflow.com/questions/70069870/in-pyspark-how-do-i-compare-two-columns-and-use-x-whenever-they-are-not-the-same
