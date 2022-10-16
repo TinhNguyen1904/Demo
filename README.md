@@ -119,3 +119,26 @@ https://stackoverflow.com/questions/64618491/merge-combine-2-column-in-spark-dat
 https://stackovelow.com/questions/60475839/add-new-column-in-pyspark-data-frame-comparing-two-column-present-in-same-data-f
 
 https://stackoverflow.com/questions/70069870/in-pyspark-how-do-i-compare-two-columns-and-use-x-whenever-they-are-not-the-same
+
+======================================Hudi=====================================================
+
+https://hudi.apache.org/docs/writing_data/
+
+https://hudi.apache.org/docs/0.5.1/quick-start-guide/
+
+https://aws.amazon.com/blogs/big-data/get-a-quick-start-with-apache-hudi-apache-iceberg-and-delta-lake-with-amazon-emr-on-eks/
+
+https://fred-gu.medium.com/aws-data-lake-solution-based-on-apache-hudi-without-requiring-database-cdc-999d2e5417e
+
+https://www.nitorinfotech.com/blog/apache-real-time-data-upsert-update-insert/
+
+https://aws.amazon.com/blogs/big-data/ingest-streaming-data-to-apache-hudi-tables-using-aws-glue-and-apache-hudi-deltastreamer/
+
+https://www.google.com/search?bih=714&biw=1536&hl=vi&sxsrf=ALiCzsboZV7yUaWYneWAlOnZkEEzXvuPXA:1665933737486&q=Hudi-spark&sa=X&ved=2ahUKEwiRjJHlhuX6AhUSm1YBHeZ2BFcQ1QJ6BAgnEAE
+
+https://www.google.com/search?bih=714&biw=1536&hl=vi&sxsrf=ALiCzsboZV7yUaWYneWAlOnZkEEzXvuPXA:1665933737486&q=Apache+Hudi+local+setup&sa=X&ved=2ahUKEwiRjJHlhuX6AhUSm1YBHeZ2BFcQ1QJ6BAgpEAE
+
+https://docs.amazonaws.cn/en_us/athena/latest/ug/setting-up.html
+
+https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
+
